@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://www.ect.nl/en">
+  <channel>
+    <title>ECT Hutchison Ports</title>
+    <link>https://www.ect.nl/en</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>TOS Euromax</title>
+  <link>https://www.ect.nl/nl/tos-euromax</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;TOS Euromax&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;beheer&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-12-04T17:12:19+01:00" title="Thursday, December 4, 2025 - 17:12" class="datetime"&gt;Thu, 12/04/2025 - 17:12&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Wed, 03 Dec 2025 09:36:17 +0000</pubDate>
+    <dc:creator>britt</dc:creator>
+    <guid isPermaLink="false">3331 at https://www.ect.nl</guid>
+    </item>
+<item>
+  <title>Gezichtsherkenning via CargoCard</title>
+  <link>https://www.ect.nl/nl/gezichtsherkenning-cargocard</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Facial recognition via CargoCard&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;Rob Bagchus&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-04-23T11:10:26+02:00" title="Wednesday, April 23, 2025 - 11:10" class="datetime"&gt;Wed, 04/23/2025 - 11:10&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Wed, 23 Apr 2025 09:07:27 +0000</pubDate>
+    <dc:creator>Rob Bagchus</dc:creator>
+    <guid isPermaLink="false">3019 at https://www.ect.nl</guid>
+    </item>
+
+  </channel>
+</rss>
